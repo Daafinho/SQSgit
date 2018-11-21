@@ -1,1 +1,2 @@
-Welcome to git
+Welkom to GIT!
+Git is fantastisch!!!!!!!!
