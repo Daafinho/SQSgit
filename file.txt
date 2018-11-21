@@ -1,3 +1,5 @@
+<p>
 Welkom to GIT!
 Git is fantastisch!!!!!!!!
 Excercise 7
+</p>
